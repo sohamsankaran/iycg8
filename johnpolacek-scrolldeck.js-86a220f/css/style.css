@@ -327,7 +327,7 @@ a.nav-button:visited {
 	color: #959db5;
 }
 
-.current, a.nav-button:hover {
+.current, a.nav-button:hover, a.nav-button:visited:hover {
 	color: #fff;
 }
 
