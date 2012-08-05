@@ -223,12 +223,14 @@ p {
 	line-height: 1.2;
 }
 
-a, .slide a:visited {
+a, a:visited {
 	color: #1a4a6a;
 	font-weight: bold;
 	font-style: italic;
 	text-shadow: none;
 }
+
+
 
 small {
 	line-height: 1;
@@ -319,6 +321,10 @@ code {
 	text-shadow: 0 -1px 1px #000;
 	font-weight: bold;
 	font-style: normal;
+}
+
+a.nav-button:visited {
+	color: #959db5;
 }
 
 .current, a.nav-button:hover {
