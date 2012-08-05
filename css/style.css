@@ -374,27 +374,35 @@ a.nav-button:visited {
 }
 
 
+#prelude {
+	padding-top: 70px;
+	padding-top: 7rem;
+	height: 500px;
+	height: 50rem;
+	background-color: #8BCCED;
+}
+
 #topic {
 	padding-top: 70px;
 	padding-top: 7rem;
-	height: 480px;
-	height: 48rem;
-	background-color: #FC7365;
+	height: 500px;
+	height: 50rem;
+	background-color: #8BC682;
 }
 
 #register {
 	padding-top: 70px;
 	padding-top: 7rem;
-	height: 480px;
-	height: 48rem;
+	height: 1600px;
+	height: 160rem;
 	background-color: #8BCCED;
 }
 
 #structure {
 	padding-top: 70px;
 	padding-top: 7rem;
-	height: 480px;
-	height: 48rem;
+	height: 700px;
+	height: 70rem;
 	background-color: #8BC682;
 }
 
@@ -423,6 +431,11 @@ a.nav-button:visited {
 
 #credits a {
 	padding-right: 3px;
+}
+
+.ss-form-container
+{
+font-size: 20px;
 }
 
 /*------------------------  BASE-REM SIZING  */
