@@ -147,23 +147,23 @@ a.button:hover {
 }
 
 a.button span {
-  padding-left: 50px;
   display: block;
   height: 23px;
 }
 
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
+#register span {
+  padding-left: 50px;
+
 }
-#download-tar-gz span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
+#board span {
+  padding-left: 50px;
+
 }
-#view-on-github span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+#topic span {
+  padding-left: 50px;
+
 }
-#view-on-github {
-  margin-right: 0;
-}
+
 
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
