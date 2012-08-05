@@ -223,7 +223,7 @@ p {
 	line-height: 1.2;
 }
 
-a, a:visited {
+a, .slide a:visited {
 	color: #1a4a6a;
 	font-weight: bold;
 	font-style: italic;
